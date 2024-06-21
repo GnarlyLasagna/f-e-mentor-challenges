@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="./assets/favicon-32x32.png"
+        />
+
+        <link rel="stylesheet" href="./dist/css/normalize.css" />
+        <link rel="stylesheet" href="./dist/css/styles.css" />
+        <script src="./dist/js/main.js" defer></script>
+
+        <meta name="author" content="Evan Dolatowski">
+        <title>Audiophile e-commerce website | Evan Dolatowski</title>
+    </head>
+
+    <body class="checkout__body">
+        <header class="header header--category">
+            <nav class="header__nav container">
+                <button
+                    aria-label="toggle navigation menu"
+                    id="hamburger-toggle"
+                    class="header__hamburger-toggle"
+                >
+                    <img
+                        src="./assets/shared/tablet/icon-hamburger.svg"
+                        alt="hamburger menu icon"
+                        class="header__hamburger"
+                        id="hamburger"
+                        aria-hidden="true"
+                    />
+                </button>
+                <a
+                    href="./index.html"
+                    aria-label="auddiophile logo, link to home"
+                >
+                    <img
+                        src="./assets/shared/desktop/logo.svg"
+                        alt="audiophile logo"
+                        class="header__logo"
+                    />
+                </a>
+                <ul class="header__links">
+                    <li>
+                        <a href="./index.html" class="nav__link">home</a>
+                    </li>
+                    <li>
+                        <a href="./headphones.html" class="nav__link"
+                            >headphones</a
+                        >
+                    </li>
+                    <li>
+                        <a href="./speakers.html" class="nav__link">speakers</a>
+                    </li>
+
+                    <li>
+                        <a href="./earphones.html" class="nav__link"
+                            >earphones</a
+                        >
+                    </li>
+                </ul>
+                <a
+                    href="#"
+                    class="header__cart"
+                    aria-label="link to cart"
+                    id="cart-link"
+                >
+                    <span class="header__quantity"></span>
+                    <img
+                        src="./assets/shared/desktop/icon-cart.svg"
+                        alt="cart"
+                        id="cart"
+                        aria-hidden="true"
+                    />
+                </a>
+            </nav>
+        </header>
+        <main class="checkout" id="checkout">
+            <section class="checkout__modal container">
+                <div class="checkout__checkmark">&#10003;</div>
+
+                <h2 class="checkout__h1 checkout__h1--thanks">
+                    thank you <br />
+                    for your order
+                </h2>
+                <p class="checkout__sub-title">
+                    you will receive an email confirmation shortly.
+                </p>
+
+                <div class="checkout__receipt">
+                    <div class="checkout__receipt-items">
+                        <div class="checkout__receipt-item"></div>
+                        <div class="checkout__accordian"></div>
+                        <button
+                            class="checkout__accordian-btn btn btn--transparent"
+                        >
+                            view less
+                        </button>
+                    </div>
+                    <div class="checkout__receipt-total">
+                        <div class="checkout__receipt-container">
+                            <p class="summary__p checkout__total-label">
+                                grand total
+                            </p>
+                            <p class="checkout__receipt-price">54325</p>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="./index.html" class="btn btn--peach checkout__btn"
+                    >back to home</a
+                >
+            </section>
+
+            <div class="container">
+                <a href="javascript:history.back()" class="product__back-button"
+                    >go back</a
+                >
+            </div>
+            <section class="cart">
+                <div class="cart__container container">
+                    <div class="cart__card cart__card--empty">
+                        <img
+                            class="cart__empty-cart"
+                            src="./assets/shared/desktop/icon-cart.svg"
+                            alt="cart"
+                        />
+                        <p class="cart__empty-para">your cart is empty</p>
+                    </div>
+                    <div class="cart__card">
+                        <div class="cart__inner-container">
+                            <div class="cart__top">
+                                <div class="cart__h6">
+                                    cart &nbsp;(<span class="cart__quantity"
+                                        >0</span
+                                    >)
+                                </div>
+                                <button class="cart__remove">remove all</button>
+                            </div>
+                            <div class="cart__basket"></div>
+                            <div class="cart__total">
+                                <span class="cart__tag"> total </span>
+
+                                <span class="cart__grand-total">$ &nbsp;0</span>
+                            </div>
+                            <a
+                                href="./checkout.html"
+                                class="cart__btn btn btn--peach"
+                                >checkout</a
+                            >
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="categories categories--nav container">
+                <a href="./headphones.html" class="categories__card">
+                    <img
+                        src="./assets/shared/desktop/image-category-thumbnail-headphones.png"
+                        alt="headphones"
+                        class="categories__image"
+                    />
+                    <div class="categories__text-block">
+                        <p class="categories__h6">headphones</p>
+                        <div class="btn btn--shop">
+                            <p class="sub-title">shop</p>
+                            <img
+                                src="./assets/shared/desktop/icon-arrow-right.svg"
+                                alt="arrow right"
+                            />
+                        </div>
+                    </div>
+                </a>
+                <a href="./speakers.html" class="categories__card">
+                    <img
+                        src="./assets/shared/desktop/image-category-thumbnail-speakers.png"
+                        alt="headphones"
+                        class="categories__image"
+                    />
+                    <div class="categories__text-block">
+                        <p class="categories__h6">speakers</p>
+                        <div class="btn btn--shop">
+                            <p class="sub-title">shop</p>
+                            <img
+                                src="./assets/shared/desktop/icon-arrow-right.svg"
+                                alt="arrow right"
+                            />
+                        </div>
+                    </div>
+                </a>
+                <a href="./earphones.html" class="categories__card">
+                    <img
+                        src="./assets/shared/desktop/image-category-thumbnail-earphones.png"
+                        alt="headphones"
+                        class="categories__image"
+                    />
+                    <div class="categories__text-block">
+                        <p class="categories__h6">earphones</p>
+                        <div class="btn btn--shop">
+                            <p class="sub-title">shop</p>
+                            <img
+                                src="./assets/shared/desktop/icon-arrow-right.svg"
+                                alt="arrow right"
+                            />
+                        </div>
+                    </div>
+                </a>
+            </section>
+
+            <section class="checkout__sections container">
+                <form class="checkout__form container">
+                    <h1 class="checkout__h1">checkout</h1>
+
+                    <section class="checkout__billing checkout__grid">
+                        <h2 class="checkout__h2">billing details</h2>
+
+                        <div class="checkout__input-container">
+                            <small class="checkout__error checkout__error--name"
+                                >Cannot be empty</small
+                            >
+                            <label for="name" class="checkout__label"
+                                >name</label
+                            >
+                            <input
+                                type="text"
+                                name="name"
+                                id="name"
+                                class="checkout__input"
+                            />
+                        </div>
+
+                        <div class="checkout__input-container">
+                            <small
+                                class="checkout__error checkout__error--email"
+                                >Wrong format</small
+                            >
+
+                            <label for="email" class="checkout__label"
+                                >email address</label
+                            >
+                            <input
+                                type="email"
+                                name="email"
+                                id="email"
+                                class="checkout__input"
+                            />
+                        </div>
+
+                        <div class="checkout__input-container">
+                            <label for="phone" class="checkout__label"
+                                >phone number</label
+                            >
+                            <input
+                                type="tel"
+                                name="phone"
+                                id="phone"
+                                class="checkout__input"
+                            />
+                        </div>
+                    </section>
+
+                    <section class="checkout__shipping checkout__grid">
+                        <h2 class="checkout__h2">shipping info</h2>
+
+                        <div class="checkout__input-container">
+                            <small
+                                class="checkout__error checkout__error--address"
+                                >Cannot be empty</small
+                            >
+                            <label for="address" class="checkout__label"
+                                >your address</label
+                            >
+                            <input
+                                type="text"
+                                name="address"
+                                id="address"
+                                class="checkout__input checkout__address"
+                            />
+                        </div>
+
+                        <div class="checkout__input-container">
+                            <small class="checkout__error checkout__error--zip"
+                                >Cannot be empty</small
+                            >
+                            <label for="zip-code" class="checkout__label"
+                                >ZIP code</label
+                            >
+                            <input
+                                type="text"
+                                name="zip-code"
+                                id="zip-code"
+                                class="checkout__input"
+                                pattern="[0-9]{5}"
+                            />
+                        </div>
+
+                        <div class="checkout__input-container">
+                            <small class="checkout__error checkout__error--city"
+                                >Cannot be empty</small
+                            >
+                            <label for="city" class="checkout__label"
+                                >city</label
+                            >
+                            <input
+                                type="text"
+                                name="city"
+                                id="city"
+                                class="checkout__input"
+                            />
+                        </div>
+
+                        <div class="checkout__input-container">
+                            <small
+                                class="checkout__error checkout__error--country"
+                                >Cannot be empty</small
+                            >
+                            <label for="country" class="checkout__label"
+                                >country</label
+                            >
+                            <input
+                                type="text"
+                                name="country"
+                                id="country"
+                                class="checkout__input"
+                            />
+                        </div>
+                    </section>
+
+                    <section class="checkout__payment">
+                        <h2 class="checkout__h2">payment details</h2>
+                        <small class="checkout__error checkout__error--payment"
+                            >Please choose a payment option</small
+                        >
+
+                        <fieldset class="checkout__fieldset checkout__grid">
+                            <legend class="checkout__label">
+                                payment method
+                            </legend>
+
+                            <div
+                                class="
+                                    checkout__input
+                                    checkout__radio
+                                    checkout__radio-emoney
+                                "
+                            >
+                                <span
+                                    class="checkout__radio-overlay span__emoney"
+                                >
+                                    <input
+                                        type="radio"
+                                        name="method"
+                                        id="e-money"
+                                    />
+                                </span>
+
+                                <label
+                                    for="e-money"
+                                    class="
+                                        checkout__label
+                                        checkout__label--radio
+                                        checkout__label--emoney
+                                    "
+                                    >e-money</label
+                                >
+                            </div>
+
+                            <div
+                                class="
+                                    checkout__input
+                                    checkout__radio
+                                    checkout__radio-COD
+                                "
+                            >
+                                <span class="checkout__radio-overlay span__COD">
+                                    <input
+                                        type="radio"
+                                        name="method"
+                                        id="cash"
+                                    />
+                                </span>
+                                <label
+                                    for="cash"
+                                    class="
+                                        checkout__label checkout__label--radio
+                                    "
+                                    >cash on delivery</label
+                                >
+                            </div>
+                        </fieldset>
+
+                        <div class="checkout__e-money hidden">
+                            <div
+                                class="
+                                    checkout__e-money-container checkout__grid
+                                "
+                            >
+                                <div class="checkout__input-container">
+                                    <small
+                                        class="
+                                            checkout__error
+                                            checkout__error--number
+                                        "
+                                        >Wrong format</small
+                                    >
+                                    <label
+                                        for="e-money-number"
+                                        class="
+                                            checkout__label
+                                            checkout__label--emoney
+                                        "
+                                        >e-Money number</label
+                                    >
+                                    <input
+                                        type="text"
+                                        name="e-money-number"
+                                        id="e-money-number"
+                                        class="checkout__input"
+                                        pattern="[0-9]{9}"
+                                        placeholder="Please enter your 9-digit account #"
+                                        aria-placeholder="Please enter your 9-digit account number"
+                                    />
+                                </div>
+
+                                <div class="checkout__input-container">
+                                    <small
+                                        class="
+                                            checkout__error checkout__error--pin
+                                        "
+                                        >Wrong format</small
+                                    >
+                                    <label
+                                        for="pin"
+                                        class="
+                                            checkout__label
+                                            checkout__label--emoney
+                                        "
+                                        >e-Money PIN</label
+                                    >
+                                    <input
+                                        type="text"
+                                        name="pin"
+                                        id="pin"
+                                        class="checkout__input"
+                                        pattern="[0-9]{4}"
+                                        placeholder="Please enter your 4-digit pin"
+                                        aria-placeholder="Please enter your 4-digit pin"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="checkout__cash hidden">
+                            <div class="checkout__cash-container">
+                                <img
+                                    src="./assets/shared/desktop/cash-on-delivery.png"
+                                    alt="two hands exchanging package and money"
+                                    class="checkout__img"
+                                />
+                                <p class="checkout__cash-text">
+                                    The 'Cash on Delivery' option enables you to
+                                    pay in cash when our delivery courier
+                                    arrives at your residence. Just make sure
+                                    your address is correct so that your order
+                                    will not be cancelled.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                </form>
+
+                <section class="summary container">
+                    <p class="summary__h6">summary</p>
+                    <div class="summary__container"></div>
+                    <div class="summary__total summary__charges">
+                        <p class="summary__p">total</p>
+                        <p class="summary__total-cost summary__charge"></p>
+                    </div>
+                    <div class="summary__shipping summary__charges">
+                        <p class="summary__p">shipping</p>
+                        <p class="summary__shipping-cost summary__charge">
+                            $ 50
+                        </p>
+                    </div>
+                    <div class="summary__vat-container summary__charges">
+                        <p class="summary__p">vat (included)</p>
+                        <p class="summary__vat summary__charge"></p>
+                    </div>
+                    <div class="summary__grand-total summary__charges">
+                        <p class="summary__p">grand total</p>
+                        <p
+                            class="summary__grand-total-cost summary__charge"
+                        ></p>
+                    </div>
+                    <a class="summary__button btn btn--peach">
+                        continue & pay
+                    </a>
+                </section>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <section class="footer__info-section">
+                <div class="footer__info-inner container">
+                    <div class="footer__nav container">
+                        <img
+                            src="./assets/shared/desktop/logo.svg"
+                            alt="audiophole"
+                            class="footer__logo"
+                        />
+                        <ul class="footer__links">
+                            <li>
+                                <a href="./index.html" class="nav__link"
+                                    >home</a
+                                >
+                            </li>
+                            <li>
+                                <a href="./headphones.html" class="nav__link"
+                                    >headphones</a
+                                >
+                            </li>
+                            <li>
+                                <a href="./speakers.html" class="nav__link"
+                                    >speakers</a
+                                >
+                            </li>
+                            <li>
+                                <a href="./earphones.html" class="nav__link"
+                                    >earphones</a
+                                >
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="footer__info container">
+                        <p class="footer__p footer__p--info text--white">
+                            Audiophile is an all in one stop to fulfill your
+                            audio needs. We're a small team of music lovers and
+                            sound specialists who are devoted to helping you get
+                            the most out of personal audio. Come and visit our
+                            demo facility - we’re open 7 days a week.
+                        </p>
+                        <p class="footer__copyright text--white">
+                            Copyright 2021. All Rights Reserved
+                        </p>
+                        <ul class="footer__social">
+                            <li>
+                                <a
+                                    href="https://www.facebook.com/"
+                                    target="_blank"
+                                >
+                                    <img
+                                        src="./assets/shared/desktop/icon-facebook.svg"
+                                        alt="facebook"
+                                        class="footer__icon"
+                                    />
+                                </a>
+                            </li>
+                            <li>
+                                <a
+                                    href="https://www.twitter.com/"
+                                    target="_blank"
+                                >
+                                    <img
+                                        src="./assets/shared/desktop/icon-twitter.svg"
+                                        alt="twitter"
+                                        class="footer__icon"
+                                /></a>
+                            </li>
+                            <li>
+                                <a
+                                    href="https://www.instagram.com/"
+                                    target="_blank"
+                                >
+                                    <img
+                                        src="./assets/shared/desktop/icon-instagram.svg"
+                                        alt="instagram"
+                                        class="footer__icon"
+                                /></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </footer>
+    </body>
+</html>
