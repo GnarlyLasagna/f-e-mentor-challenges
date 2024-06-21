@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./dist/css/normalize.css" />
+    <link rel="stylesheet" href="./dist/css/Styles.css" />
+
+    <meta name="author" content="Evan Dolatowski">
+    <title>Rock, Paper, Scissors | Evan Dolatowski</title>
+
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header__img--original"></div>
+      <div class="score">
+        <p class="score__p">SCORE</p>
+        <div class="score__score">0</div>
+      </div>
+    </header>
+
+    <section class="buttons buttons--play">
+      <div class="paper__border btn" data-play="paper">
+        <div>
+          <img
+            src="./images/icon-paper.svg"
+            alt="paper button"
+            class="paper img"
+          />
+        </div>
+      </div>
+
+      <div class="scissors__border btn" data-play="scissors">
+        <div>
+          <img
+            src="./images/icon-scissors.svg"
+            alt="Scissors button"
+            class="scissors img"
+          />
+        </div>
+      </div>
+
+      <div class="rock__border btn" data-play="rock">
+        <div>
+          <img
+            src="./images/icon-rock.svg"
+            alt="rock button"
+            class="rock img"
+          />
+        </div>
+      </div>
+    </section>
+    <section class="buttons buttons--results">
+      <div class="container container--player">
+        <div class="placeholders" id="player"></div>
+        <p>YOU PICKED</p>
+      </div>
+
+      <div class="replay">
+        <p id="resultMessage">DRAW</p>
+        <button class="replayBtn">PLAY AGAIN</button>
+      </div>
+
+      <div class="container container--house">
+        <div class="placeholders" id="house"></div>
+        <p>THE HOUSE PICKED</p>
+      </div>
+    </section>
+
+    <button class="rules__btn" id="rulesOpen" data-function="toggleRules">
+      RULES
+    </button>
+
+    <div class="rules__modal hideRules">
+      <div>
+        <p>
+          RULES
+          <span id="rulesClose" data-function="toggleRules">&#10005;</span>
+        </p>
+        <img src="./images/image-rules.svg" alt="rules" />
+      </div>
+    </div>
+  </body>
+</html>
