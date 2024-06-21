@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="./assets/favicon-32x32.png"
+        />
+
+        <link rel="stylesheet" href="./dist/css/normalize.css" />
+        <link rel="stylesheet" href="./dist/css/styles.css" />
+
+        <script src="./dist/js/main.js" defer></script>
+
+          <meta name="author" content="Evan Dolatowski">
+        <title>Designo Agency Website Challenge | Evan Dolatowski</title>
+
+    </head>
+    <body>
+        <img
+            src="./assets/shared/desktop/bg-pattern-leaf.svg"
+            alt="leaf-patern"
+            class="background-img background-img--contact"
+        />
+        <header class="header">
+            <nav class="header__nav container">
+                <a
+                    href="./index.html"
+                    class="header__anchor"
+                    aria-label="link to homepage"
+                >
+                    <img
+                        class="header__logo"
+                        src="./assets/shared/desktop/logo-dark.png"
+                        alt="designo logo"
+                        aria-hidden="true"
+                    />
+                </a>
+
+                <ul class="header__links">
+                    <li>
+                        <a href="./about.html" class="header__link"
+                            >our company</a
+                        >
+                    </li>
+                    <li>
+                        <a href="./locations.html" class="header__link"
+                            >locations</a
+                        >
+                    </li>
+                    <li>
+                        <a href="./contact.html" class="header__link"
+                            >contact</a
+                        >
+                    </li>
+                </ul>
+
+                <div class="mobile-menu">
+                    <ul class="mobile-menu__links container">
+                        <li>
+                            <a href="./about.html" class="mobile-menu__link"
+                                >our company</a
+                            >
+                        </li>
+                        <li>
+                            <a href="./locations.html" class="mobile-menu__link"
+                                >locations</a
+                            >
+                        </li>
+                        <li>
+                            <a href="./contact.html" class="mobile-menu__link"
+                                >contact</a
+                            >
+                        </li>
+                    </ul>
+                </div>
+
+                <a
+                    href="#"
+                    aria-label="toggle navigation menu"
+                    id="hamburger-toggle"
+                    class="header__hamburger-toggle"
+                >
+                    <img
+                        src="./assets/shared/mobile/icon-hamburger.svg"
+                        alt="hamburger menu icon"
+                        class="header__hamburger"
+                        id="hamburger"
+                        aria-hidden="true"
+                    />
+                </a>
+            </nav>
+        </header>
+
+        <main class="contact">
+            <section class="contact__hero">
+                <div class="contact__text">
+                    <h1 class="contact__h1">contact us</h1>
+                    <p class="contact__p">
+                        Ready to take it to the next level? Let’s talk about
+                        your project or idea and find out how we can help your
+                        business grow. If you are looking for unique digital
+                        experiences that’s relatable to your users, drop us a
+                        line.
+                    </p>
+                </div>
+
+                <form class="contact__form" novalidate>
+                    <div class="contact__wrapper">
+                        <input
+                            type="text"
+                            class="contact__name contact__input"
+                            id="name"
+                        />
+                        <label for="name" class="contact__label">name</label>
+                        <small class="contact__error"
+                            >Can't be empty
+                            <img
+                                src="./assets/contact/desktop/icon-error.svg"
+                                alt="error icon"
+                        /></small>
+                    </div>
+                    <div class="contact__wrapper">
+                        <input
+                            type="email"
+                            name="email"
+                            class="contact__email contact__input"
+                            id="email"
+                        />
+                        <label for="email" class="contact__label"
+                            >email address</label
+                        >
+                        <small class="contact__error"
+                            >Can't be empty
+                            <img
+                                src="./assets/contact/desktop/icon-error.svg"
+                                alt="error icon"
+                        /></small>
+                        <small class="contact__error"
+                            >Please use a valid email address
+                            <img
+                                src="./assets/contact/desktop/icon-error.svg"
+                                alt="error icon"
+                        /></small>
+                    </div>
+
+                    <div class="contact__wrapper">
+                        <input
+                            type="tel"
+                            name="phone"
+                            class="contact__phone contact__input"
+                            id="phone"
+                        />
+                        <label for="phone" class="contact__label">phone</label>
+                    </div>
+
+                    <div class="contact__wrapper">
+                        <textarea
+                            name="message"
+                            id="message"
+                            class="contact__message contact__input"
+                            cols="30"
+                            rows="4"
+                        ></textarea>
+                        <label for="message" class="contact__label"
+                            >your message</label
+                        >
+                        <small class="contact__error"
+                            >Can't be empty
+                            <img
+                                src="./assets/contact/desktop/icon-error.svg"
+                                alt="error icon"
+                        /></small>
+                    </div>
+
+                    <button type="submit" class="btn contact__btn">
+                        submit
+                    </button>
+                    <small class="contact__success">thank you for contacting us! we will be in touch with you shortly.</small>
+                </form>
+            </section>
+            <section class="features features--about container">
+                <div class="features__feature features--about__feature">
+                    <div class="features__img features__img--canada">
+                        <img
+                            src="./assets/shared/desktop/illustration-canada.svg"
+                            alt="drawing of canadian skyline"
+                        />
+                    </div>
+                    <div class="features__text-block">
+                        <h3 class="features__header">canada</h3>
+                        <a href="locations.html" class="btn btn--dark"
+                            >see location</a
+                        >
+                    </div>
+                </div>
+                <div class="features__feature features--about__feature">
+                    <div class="features__img features__img--australia">
+                        <img
+                            src="./assets/shared/desktop/illustration-australia.svg"
+                            alt="drawing of sydney opera house"
+                        />
+                    </div>
+                    <div class="features__text-block">
+                        <h3 class="features__header">australia</h3>
+                        <a href="locations.html" class="btn btn--dark"
+                            >see location</a
+                        >
+                    </div>
+                </div>
+                <div class="features__feature features--about__feature">
+                    <div class="features__img features__img--uk">
+                        <img
+                            src="./assets/shared/desktop/illustration-united-kingdom.svg"
+                            alt="drawing of tower bridge"
+                        />
+                    </div>
+                    <div class="features__text-block">
+                        <h3 class="features__header">united kingdom</h3>
+                        <a href="locations.html" class="btn btn--dark"
+                            >see location</a
+                        >
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer footer--contact">
+            <section class="footer__content footer__content--contact">
+                <div class="footer__container container">
+                    <div class="footer__nav">
+                        <a
+                            href="./index.html"
+                            class="footer__anchor"
+                            aria-label="link to home"
+                        >
+                            <img
+                                src="./assets/shared/desktop/logo-light.png"
+                                alt="designo logo"
+                                class="footer__logo"
+                            />
+                        </a>
+                        <ul class="footer__links">
+                            <li class="footer__link">
+                                <a href="./about.html">our company</a>
+                            </li>
+                            <li class="footer__link">
+                                <a href="./locations.html">locations</a>
+                            </li>
+                            <li class="footer__link">
+                                <a href="./contact.html">contact</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="footer__info">
+                        <div class="footer__text">
+                            <h4>Designo Central Office</h4>
+                            <p>
+                                3886 Wellington Street
+                                <br />
+                                Toronto, Ontario M9C 3J5
+                            </p>
+                        </div>
+                        <div class="footer__text">
+                            <h4>Contact Us (Central Office)</h4>
+                            <p>
+                                P : +1 253-863-8967
+                                <br />
+                                M : contact@designo.co
+                            </p>
+                        </div>
+                        <ul class="footer__social">
+                            <li class="footer__link footer__social-link">
+                                <a href="https://www.facebook.com">
+                                    <img
+                                        src="./assets/shared/desktop/icon-facebook.svg"
+                                        alt="facebook icon"
+                                    />
+                                </a>
+                            </li>
+                            <li class="footer__link footer__social-link">
+                                <a href="https://www.youtube.com">
+                                    <img
+                                        src="./assets/shared/desktop/icon-youtube.svg"
+                                        alt="youtube icon"
+                                    />
+                                </a>
+                            </li>
+                            <li class="footer__link footer__social-link">
+                                <a href="https://www.twitter.com">
+                                    <img
+                                        src="./assets/shared/desktop/icon-twitter.svg"
+                                        alt="twitter icon"
+                                    />
+                                </a>
+                            </li>
+                            <li class="footer__link footer__social-link">
+                                <a href="https://www.pinterest.com">
+                                    <img
+                                        src="./assets/shared/desktop/icon-pinterest.svg"
+                                        alt="pinterest icon"
+                                    />
+                                </a>
+                            </li>
+                            <li class="footer__link footer__social-link">
+                                <a href="https://www.instagram.com">
+                                    <img
+                                        src="./assets/shared/desktop/icon-instagram.svg"
+                                        alt="instagram icon"
+                                    />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </footer>
+    </body>
+</html>
