@@ -57,23 +57,23 @@ Thank you for visiting, and I hope you find these projects as valuable and insig
 
 
 ## Designo Site
-[Link To The Website](https://evan-d-designo-site.netlify.app/) || [Link To The Code]()
+**[Link To The Website](https://evan-d-designo-site.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/designo-site.png)](https://evan-d-designo-site.netlify.app/)
 
 
 ## Feedback App
-[Link To The Website](https://evan-d-feedback-app.netlify.app/) || [Link To The Code]()
+**[Link To The Website](https://evan-d-feedback-app.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/feedback-app.png)](https://evan-d-feedback-app.netlify.app/)
 
 
 
 ## Kanban Task Management
-[Link To The Website](https://evan-d-kanban-task-management.netlify.app/) || [Link To The Code]()
+**[Link To The Website](https://evan-d-kanban-task-management.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/kanban-task-management.png)](https://evan-d-kanban-task-management.netlify.app/)
 
 
 ## Audiophile Site
-[Link To The Website](https://evan-d-audiophile.netlify.app/) || [Link To The Code]()
+**[Link To The Website](https://evan-d-audiophile.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/audiophile.png)](https://evan-d-audiophile.netlify.app/)
 
 
@@ -82,76 +82,76 @@ Thank you for visiting, and I hope you find these projects as valuable and insig
 
 
 ## myTeam-multipage-site
+**[Link To The Website](https://evan-d-my-team-site.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/my-team-site.png)](https://evan-d-my-team-site.netlify.app/)
-[Link To The Website](https://evan-d-my-team-site.netlify.app/) || [Link To The Code]()
 
 
 ## pomodoro-react-app
+**[Link To The Website](https://evan-d-pomodoro-app.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/pomodoro-app.png)](https://evan-d-pomodoro-app.netlify.app/)
-[Link To The Website](https://evan-d-pomodoro-app.netlify.app/) || [Link To The Code]()
 
 
 ## rest-countries-api
+**[Link To The Website](https://evan-d-rest-countries.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/rest-countries.png)](https://evan-d-rest-countries.netlify.app/)
-[Link To The Website](https://evan-d-rest-countries.netlify.app/) || [Link To The Code]()
 
 
 ## rock-paper-scissors-game
+**[Link To The Website](https://evan-d-rock-paper-scissors.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/rock-paper-scissors.png)](https://evan-d-rock-paper-scissors.netlify.app/)
-[Link To The Website](https://evan-d-rock-paper-scissors.netlify.app/) || [Link To The Code]()
 
 
 
 # Lvl 3 : Intermediate
 
 ## bookmark-landing-page
+**[Link To The Website](https://evan-d-bookmark-landing-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/bookmark-landing-page.png)](https://evan-d-bookmark-landing-page.netlify.app/)
-[Link To The Website](https://evan-d-bookmark-landing-page.netlify.app/) || [Link To The Code]()
 
 
 ## chat-app-CSS-illustration
+**[Link To The Website](https://evan-d-chat-app-css-illustration.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/chat-app-css-illustration.png)](https://evan-d-chat-app-css-illustration.netlify.app/)
-[Link To The Website](https://evan-d-chat-app-css-illustration.netlify.app/) || [Link To The Code]()
 
 
 ## e-commerce-product-page
+**[Link To The Website](https://evan-d-ecommerce-product-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/ecommerce-product-page.png)](https://evan-d-ecommerce-product-page.netlify.app/)
-[Link To The Website](https://evan-d-ecommerce-product-page.netlify.app/) || [Link To The Code]()
 
 
 ## interactive-comments-section
+**[Link To The Website](https://evan-d-interactive-comments-section.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/interactive-comments-section.png)](https://evan-d-interactive-comments-section.netlify.app/)
-[Link To The Website](https://evan-d-interactive-comments-section.netlify.app/) || [Link To The Code]()
 
 
 ## launch-countdown-timer
+**[Link To The Website](https://evan-d-launch-countdown-timer.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/launch-countdown-timer.png)](https://evan-d-launch-countdown-timer.netlify.app/)
-[Link To The Website](https://evan-d-launch-countdown-timer.netlify.app/) || [Link To The Code]()
 
 
 ## manage-landing-page
+**[Link To The Website](https://evan-d-manage-landing-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/manage-landing-page.png)](https://evan-d-manage-landing-page.netlify.app/)
-[Link To The Website](https://evan-d-manage-landing-page.netlify.app/) || [Link To The Code]()
 
 
 ## react-job-listings-with-filtering
+**[Link To The Website](https://evan-d-job-listing-with-filtering.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/job-listing-with-filtering.png)](https://evan-d-job-listing-with-filtering.netlify.app/)
-[Link To The Website](https://evan-d-job-listing-with-filtering.netlify.app/) || [Link To The Code]()
 
 
 ## space-tourism-multi-page-website
+**[Link To The Website](https://evan-d-space-tourism.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/space-tourism.png)](https://evan-d-space-tourism.netlify.app/)
-[Link To The Website](https://evan-d-space-tourism.netlify.app/) || [Link To The Code]()
 
 
 ## todo-app
+**[Link To The Website](https://evan-d-todo-app.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/todo-app.png)](https://evan-d-feedback-app.netlify.app/)
-[Link To The Website](https://evan-d-todo-app.netlify.app/) || [Link To The Code]()
 
 
 ## url-shortening-api
+**[Link To The Website](https://evan-d-url-shortening.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/url-shortening.png)](https://evan-d-url-shortening.netlify.app/)
-[Link To The Website](https://evan-d-url-shortening.netlify.app/) || [Link To The Code]()
 
 
 
@@ -159,58 +159,58 @@ Thank you for visiting, and I hope you find these projects as valuable and insig
 
 
 ## advice-generator-app
+**[Link To The Website](https://evan-d-advice-generator-app.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/advice-generator-app.png)](https://evan-d-advice-generator-app.netlify.app/)
-[Link To The Website](https://evan-d-advice-generator-app.netlify.app/) || [Link To The Code]()
 
 
 ## crowdfunding-product-page
+**[Link To The Website](https://evan-d-crowdfunding-product-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/crowdfunding-product-page.png)](https://evan-d-crowdfunding-product-page.netlify.app/)
-[Link To The Website](https://evan-d-crowdfunding-product-page.netlify.app/) || [Link To The Code]()
 
 
 ## fylo-data-storage-component
+**[Link To The Website](https://evan-d-flylo-data-storage.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/flylo-data-storage.png)](https://evan-d-flylo-data-storage.netlify.app/)
-[Link To The Website](https://evan-d-flylo-data-storage.netlify.app/) || [Link To The Code]()
 
 
 ## fylo-landing-page-with-two-column-layout
+**[Link To The Website](https://evan-d-flylo-landing-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/flylo-landing-page.png)](https://evan-d-flylo-landing-page.netlify.app/)
-[Link To The Website](https://evan-d-flylo-landing-page.netlify.app/) || [Link To The Code]()
 
 
 ## fylo-dark-theme-landing-page
+**[Link To The Website](https://evan-d-flylo-dark-theme.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/flylo-dark-theme.png)](https://evan-d-flylo-dark-theme.netlify.app/)
-[Link To The Website](https://evan-d-flylo-dark-theme.netlify.app/) || [Link To The Code]()
 
 
 ## huddle-landing-page-with-feature-blocks
+**[Link To The Website](https://evan-d-huddle-landing-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/huddle-landing-page.png)](https://evan-d-huddle-landing-page.netlify.app/)
-[Link To The Website](https://evan-d-huddle-landing-page.netlify.app/) || [Link To The Code]()
 
 
 ## intro-section-with-dropdown-navigation
+**[Link To The Website](https://evan-d-intro-section-dropdown.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/intro-section-dropdown.png)](https://evan-d-intro-section-dropdown.netlify.app/)
-[Link To The Website](https://evan-d-intro-section-dropdown.netlify.app/) || [Link To The Code]()
 
 
 ## news-homepage
+**[Link To The Website](https://evan-d-news-homepage.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/news-homepage.png)](https://evan-d-news-homepage.netlify.app/)
-[Link To The Website](https://evan-d-news-homepage.netlify.app/) || [Link To The Code]()
 
 
 ## pricing-component-with-toggle
+**[Link To The Website](https://evan-d-pricing-component-w-toggle.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/pricing-component-w-toggle.png)](https://evan-d-pricing-component-w-toggle.netlify.app/)
-[Link To The Website](https://evan-d-pricing-component-w-toggle.netlify.app/) || [Link To The Code]()
 
 
 ## sunnyside-agency-landing-page
+**[Link To The Website](https://evan-d-sunnyside-agency-landing-page.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/sunnyside-agency-landing-page.png)](https://evan-d-sunnyside-agency-landing-page.netlify.app/)
-[Link To The Website](https://evan-d-sunnyside-agency-landing-page.netlify.app/) || [Link To The Code]()
 
 
 ## testimonials-grid-section
+**[Link To The Website](https://evan-d-testimonials-grid.netlify.app/) || [Link To The Code]()**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/testimonials-grid.png)](https://evan-d-testimonials-grid.netlify.app/)
-[Link To The Website](https://evan-d-testimonials-grid.netlify.app/) || [Link To The Code]()
 
 
 
