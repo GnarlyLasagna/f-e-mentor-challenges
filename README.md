@@ -2,18 +2,18 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Lvl 5 : Guru](#lvl-5--guru)
+2. [Lvl 5 : Guru](#difficulty-lvl-5--guru)
     1. [Invoice App](#invoice-app)
     2. [Designo Site](#designo-site)
     3. [Feedback App](#feedback-app)
     4. [Kanban Task Management](#kanban-task-management)
     5. [Audiophile Site](#audiophile-site)
-3. [Lvl 4 : Advanced](#lvl-4--advanced)
+3. [Lvl 4 : Advanced](#difficulty-lvl-4--advanced)
     1. [myTeam-multipage-site](#myteam-multipage-site)
     2. [pomodoro-react-app](#pomodoro-react-app)
     3. [rest-countries-api](#rest-countries-api)
     4. [rock-paper-scissors-game](#rock-paper-scissors-game)
-4. [Lvl 3 : Intermediate](#lvl-3--intermediate)
+4. [Lvl 3 : Intermediate](#difficulty-lvl-3--intermediate)
     1. [bookmark-landing-page](#bookmark-landing-page)
     2. [chat-app-CSS-illustration](#chat-app-css-illustration)
     3. [e-commerce-product-page](#e-commerce-product-page)
@@ -24,7 +24,7 @@
     8. [space-tourism-multi-page-website](#space-tourism-multi-page-website)
     9. [todo-app](#todo-app)
     10. [url-shortening-api](#url-shortening-api)
-5. [Lvl 2 : Junior](#lvl-2--junior)
+5. [Lvl 2 : Junior](#difficulty-lvl-2--junior)
     1. [advice-generator-app](#advice-generator-app)
     2. [crowdfunding-product-page](#crowdfunding-product-page)
     3. [fylo-data-storage-component](#fylo-data-storage-component)
@@ -48,61 +48,61 @@ I have invested significant effort into each project, ensuring that they not onl
 Thank you for visiting, and I hope you find these projects as valuable and insightful as I have found them in my journey as a frontend developer.
 
 
-# Lvl 5 : Guru
+# Difficulty Lvl 5 : Guru
 
 
 ## Invoice App
-**[Link To The Website](https://evan-d-invoice-app.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-invoice-app.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/invoice-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/invoice-app.png)](https://evan-d-invoice-app.netlify.app/)
 
 
 ## Designo Site
-**[Link To The Website](https://evan-d-designo-site.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-designo-site.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/designo-multi-paged-site)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/designo-site.png)](https://evan-d-designo-site.netlify.app/)
 
 
 ## Feedback App
-**[Link To The Website](https://evan-d-feedback-app.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-feedback-app.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/product-feedback-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/feedback-app.png)](https://evan-d-feedback-app.netlify.app/)
 
 
 
 ## Kanban Task Management
-**[Link To The Website](https://evan-d-kanban-task-management.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-kanban-task-management.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/kanban-task-management-web-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/kanban-task-management.png)](https://evan-d-kanban-task-management.netlify.app/)
 
 
 ## Audiophile Site
-**[Link To The Website](https://evan-d-audiophile.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-audiophile.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/audiophile-e-commerce-site)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/audiophile.png)](https://evan-d-audiophile.netlify.app/)
 
 
 
-# Lvl 4 : Advanced
+# Difficulty Lvl 4 : Advanced
 
 
 ## myTeam-multipage-site
-**[Link To The Website](https://evan-d-my-team-site.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-my-team-site.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/myTeam-multipage-site)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/my-team-site.png)](https://evan-d-my-team-site.netlify.app/)
 
 
 ## pomodoro-react-app
-**[Link To The Website](https://evan-d-pomodoro-app.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-pomodoro-app.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/pomodoro-react-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/pomodoro-app.png)](https://evan-d-pomodoro-app.netlify.app/)
 
 
 ## rest-countries-api
-**[Link To The Website](https://evan-d-rest-countries.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-rest-countries.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/rest-countries-api)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/rest-countries.png)](https://evan-d-rest-countries.netlify.app/)
 
 
 ## rock-paper-scissors-game
-**[Link To The Website](https://evan-d-rock-paper-scissors.netlify.app/) || [Link To The Code]()**
+**[Link To The Website](https://evan-d-rock-paper-scissors.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/rock-paper-scissors-game)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/rock-paper-scissors.png)](https://evan-d-rock-paper-scissors.netlify.app/)
 
 
 
-# Lvl 3 : Intermediate
+# Difficulty Lvl 3 : Intermediate
 
 ## bookmark-landing-page
 **[Link To The Website](https://evan-d-bookmark-landing-page.netlify.app/) || [Link To The Code]()**
@@ -155,7 +155,7 @@ Thank you for visiting, and I hope you find these projects as valuable and insig
 
 
 
-# Lvl 2 : Junior
+# Difficulty Lvl 2 : Junior
 
 
 ## advice-generator-app
