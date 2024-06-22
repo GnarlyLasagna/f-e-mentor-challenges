@@ -39,7 +39,7 @@
 
 ## Introduction
 
-Welcome to my GitHub repository, where I have meticulously compiled my solutions to various Frontend Mentor challenges. This collection showcases a diverse array of projects, each highlighting different aspects of my skills and abilities in frontend development.
+Welcome to my GitHub repository, where I have compiled my solutions to various Frontend Mentor challenges. This collection showcases a diverse array of projects, each highlighting different aspects of my skills and abilities in frontend development.
 
 While a portfolio site often focuses on showcasing a select few projects in great detail, this repository serves a broader purpose. It offers a comprehensive view of my proficiency in HTML, JavaScript, CSS, and React. Through these 30 projects, I have honed my understanding and application of these technologies, demonstrating my continuous growth and dedication over the years.
 
