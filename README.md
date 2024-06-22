@@ -48,36 +48,48 @@ I have invested significant effort into each project, ensuring that they not onl
 Thank you for visiting, and I hope you find these projects as valuable and insightful as I have found them in my journey as a frontend developer.
 
 
+
+---
 # Difficulty Lvl 5 : Guru
 
-
+---
 ## Invoice App
 **[Link To The Website](https://evan-d-invoice-app.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/invoice-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/invoice-app.png)](https://evan-d-invoice-app.netlify.app/)
 
 
+
+---
 ## Designo Site
 **[Link To The Website](https://evan-d-designo-site.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/designo-multi-page-site)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/designo-site.png)](https://evan-d-designo-site.netlify.app/)
 
 
+
+---
 ## Feedback App
 **[Link To The Website](https://evan-d-feedback-app.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/product-feedback-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/feedback-app.png)](https://evan-d-feedback-app.netlify.app/)
 
 
 
+
+---
 ## Kanban Task Management
 **[Link To The Website](https://evan-d-kanban-task-management.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/kanban-task-management-web-app)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/kanban-task-management.png)](https://evan-d-kanban-task-management.netlify.app/)
 
 
+
+---
 ## Audiophile Site
 **[Link To The Website](https://evan-d-audiophile.netlify.app/) || [Link To The Code](https://github.com/GnarlyLasagna/f-e-mentor-challenges/tree/main/audiophile-e-commerce-site)**
 [![Alt text](https://github.com/GnarlyLasagna/f-e-mentor-challenges/blob/main/images/audiophile.png)](https://evan-d-audiophile.netlify.app/)
 
 
 
+
+---
 # Difficulty Lvl 4 : Advanced
 
 
