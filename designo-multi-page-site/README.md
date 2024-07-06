@@ -1,6 +1,6 @@
 # Frontend Mentor - Designo Multi Page Site
 
-![Design preview for the Designo Multi Page Site coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Designo Multi Page Site coding challenge](./desktop-preview.jpg)
 
 ## Welcome! 👋
 
