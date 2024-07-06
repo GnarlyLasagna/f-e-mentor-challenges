@@ -1,6 +1,6 @@
 # Frontend Mentor - Invoice App
 
-![Design preview for the Invoice App coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Invoice App coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
