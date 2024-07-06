@@ -1,6 +1,6 @@
 # Frontend Mentor - My Team Multi Page Site solution
 
-This is a solution to the [Invoice App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [My Team Multi Page Site challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/myteam-multipage-website-mxlEauvW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
