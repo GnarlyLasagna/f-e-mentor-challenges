@@ -1,6 +1,6 @@
 # Frontend Mentor - Audiophile e-commerce site
 
-![Design preview for the Audiophile e-commerce site coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Audiophile e-commerce site coding challenge](./desktop-preview.jpg)
 
 ## Welcome! 👋
 
