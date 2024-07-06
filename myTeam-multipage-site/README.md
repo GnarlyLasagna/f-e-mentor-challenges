@@ -1,6 +1,6 @@
 # Frontend Mentor - My Team Multi Page Site
 
-![Design preview for the Invoice App coding challenge](./design/desktop-preview.jpg)
+![Design preview for the My Team Multi Page Site coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
