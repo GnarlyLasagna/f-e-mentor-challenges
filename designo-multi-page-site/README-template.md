@@ -22,9 +22,19 @@ This is a solution to the [Designo Multi Page Site challenge on Frontend Mentor]
 
 ### The challenge
 
-Users should be able to:
+Your challenge is to build out this multi-page website and get it looking as close to the design as possible.
 
-- View the optimal layout for the site depending on their device's screen size
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements throughout the site
+- Receive an error message when the contact form is submitted if:
+- The Name, Email Address or Your Message fields are empty should show "Can't be empty"
+- The Email Address is not formatted correctly should show "Please use a valid email address"
+- Bonus: View actual locations on the locations page maps (we recommend Leaflet JS for this)
+
 
 ### Screenshot
 
