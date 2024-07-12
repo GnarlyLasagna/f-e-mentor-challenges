@@ -17,13 +17,13 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-See the correct content for each team member on the About page when the + icon is clicked
-Receive an error message when the contact form is submitted if:
-The Name, Email Address or Message fields are empty should show "This field is required"
-The Email Address is not formatted correctly should show "Please use a valid email address"
-View the optimal layout for the interface depending on their device's screen size
-See hover and focus states for all interactive elements on the page
-Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
+- See the correct content for each team member on the About page when the + icon is clicked
+- Receive an error message when the contact form is submitted if:
+- The Name, Email Address or Message fields are empty should show "This field is required"
+- The Email Address is not formatted correctly should show "Please use a valid email address"
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 
 
 ## Where to find everything

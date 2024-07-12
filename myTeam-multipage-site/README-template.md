@@ -22,9 +22,19 @@ This is a solution to the [My Team Multi Page Site challenge on Frontend Mentor]
 
 ### The challenge
 
-Users should be able to:
+Your challenge is to build out this multi-page website and get it looking as close to the design as possible. The download includes mobile, tablet & desktop designs for a Homepage, About page and a Contact page. A design system is also included to provide colors, fonts, etc.
 
-- View the optimal layout for the site depending on their device's screen size
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- See the correct content for each team member on the About page when the + icon is clicked
+- Receive an error message when the contact form is submitted if:
+- The Name, Email Address or Message fields are empty should show "This field is required"
+- The Email Address is not formatted correctly should show "Please use a valid email address"
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 
 ### Screenshot
 
