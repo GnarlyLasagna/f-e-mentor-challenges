@@ -11,6 +11,7 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
+
 Your challenge is to build out this product feedback application and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
@@ -19,16 +20,16 @@ We provide the data in a local data.json file, so use that to populate the conte
 
 Your users should be able to:
 
-Create, read, update, and delete product feedback requests
-Receive form validations when trying to create/edit feedback requests
-Sort suggestions by most/least upvotes and most/least comments
-Filter suggestions by category
-Add comments and replies to a product feedback request
-Upvote product feedback requests
-View the optimal layout for the app depending on their device's screen size
-See hover states for all interactive elements on the page
-Bonus: Keep track of any changes, even after refreshing the browser (localStorage could be used for this if you're not building out a full-stack app)
-Bonus: Build this project as a full-stack application
+- Create, read, update, and delete product feedback requests
+- Receive form validations when trying to create/edit feedback requests
+- Sort suggestions by most/least upvotes and most/least comments
+- Filter suggestions by category
+- Add comments and replies to a product feedback request
+- Upvote product feedback requests
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Bonus: Keep track of any changes, even after refreshing the browser (localStorage could be used for this if you're not building out a full-stack app)
+- Bonus: Build this project as a full-stack application
 
 
 ## Where to find everything
