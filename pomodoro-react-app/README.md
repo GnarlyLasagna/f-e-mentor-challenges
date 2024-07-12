@@ -17,11 +17,11 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-Set a Pomodoro timer and short & long break timers
-Customize how long each timer runs for
-See a circular progress bar that updates every minute and represents how far through their timer they are
-Customize the appearance of the app with the ability to set preferences for colors and fonts
-Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
+- Set a Pomodoro timer and short & long break timers
+- Customize how long each timer runs for
+- See a circular progress bar that updates every minute and represents how far through their timer they are
+- Customize the appearance of the app with the ability to set preferences for colors and fonts
+- Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 
 
 ## Where to find everything

@@ -22,9 +22,17 @@ This is a solution to the [Pomodoro App challenge on Frontend Mentor](https://ww
 
 ### The challenge
 
-Users should be able to:
+Your challenge is to build out this Pomodoro timer app and get it looking as close to the design as possible.
 
-- View the optimal layout for the site depending on their device's screen size
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- Set a Pomodoro timer and short & long break timers
+- Customize how long each timer runs for
+- See a circular progress bar that updates every minute and represents how far through their timer they are
+- Customize the appearance of the app with the ability to set preferences for colors and fonts
+- Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
 
 ### Screenshot
 
